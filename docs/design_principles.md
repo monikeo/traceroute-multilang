@@ -7,7 +7,8 @@ Building a robust and user-friendly traceroute tool requires careful considerati
 ## 1. Core Design Objectives
 
 ### 1.1 Functionality
-    - Implement traceroute functionality using ICMP, UDP, and TCP protocols.
-    - Ensure the tool identifies each hop in the route, calculates round-trip times (RTTs), and displays results in an easy-to-read format.
+
+- Implement traceroute functionality using ICMP, UDP, and TCP protocols.
+- Ensure the tool identifies each hop in the route, calculates round-trip times (RTTs), and displays results in an easy-to-read format.
 
 ### 1.2 Usability
