@@ -66,7 +66,7 @@ Traceroute can operate using three primary protocols: **ICMP**, **UDP**, and **T
 ## 3. Comparison of Protocols
 
 |Feature|ICMP|UDP|TCP|
-|:------|:--:|:-:|--:|
+|:------|:---|:--|:--|
 |Purpose|Diagnostics|General-purpose|Service-specific|
 |Firewall Bypass|Low|Medium|High|
 |Implementation Complexity|Low|Medium|High|
